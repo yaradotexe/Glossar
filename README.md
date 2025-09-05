@@ -3,7 +3,8 @@
 Dies ist ein interaktives Quiz, um wichtige Begriffe und Protokolle aus der IT- und Netzwerktechnik zu lernen.  
 Das Projekt nutzt **HTML, CSS und JavaScript** und läuft komplett clientseitig im Browser.
 
-🎮 **[Quiz starten](https://yaradotexe.github.io/Glossar/)**
+[Quiz starten](https://yaradotexe.github.io/Glossar/)
+
 
 ---
 
