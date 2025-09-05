@@ -65,5 +65,11 @@ function updateStats() {
   document.getElementById("statStreak").textContent = stats.streak;
 }
 
-nextBtn.onclick = loadQuestion;
-startBtn.onclick = startQuiz;
+document.addEventListener("DOMContentLoaded", () => {
+  const startBtn = document.getElementById("startBtn");
+  const nextBtn = document.getElementById("nextBtn");
+
+  startBtn.addEventListener("click", startQuiz);
+  nextBtn.addEventListener("click", loadQuestion);
+});
+
