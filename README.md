@@ -20,6 +20,6 @@ Das Projekt nutzt **HTML, CSS und JavaScript** und läuft komplett clientseitig 
 Falls du das Projekt lokal starten möchtest:
 
 ```bash
-git clone https://github.com/DEIN-USERNAME/Glossar.git
+git clone https://github.com/yaradotexe/Glossar.git
 cd Glossar
 # Dann einfach index.html im Browser öffnen
